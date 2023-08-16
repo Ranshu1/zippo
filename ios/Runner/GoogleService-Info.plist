@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>132665249373-r17b6k2pmua7a31tsjs2nievdrl043t0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.132665249373-r17b6k2pmua7a31tsjs2nievdrl043t0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVNDrDuQt31TbL5aVdo6ZKpf5gztgu99g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>132665249373</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zippo</string>
+	<key>PROJECT_ID</key>
+	<string>zippo-bd662</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zippo-bd662.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:132665249373:ios:025e9b279a18c45dfc87b4</string>
+</dict>
+</plist>

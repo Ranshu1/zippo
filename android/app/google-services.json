@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "132665249373",
+    "project_id": "zippo-bd662",
+    "storage_bucket": "zippo-bd662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132665249373:android:d7f035b343ec7f3bfc87b4",
+        "android_client_info": {
+          "package_name": "com.example.zippo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132665249373-j8tv10dq1e32ch442bkv1ncr13irbuav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zippo",
+            "certificate_hash": "2eb176201eb1c56bc0a441e88bab3a06c28097e7"
+          }
+        },
+        {
+          "client_id": "132665249373-4onp36b3v25rlbm3mqk87vmd4unv8r8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2e0eIPY7Bk8KM2E9CWfmRQp5gDIDv3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132665249373-4onp36b3v25rlbm3mqk87vmd4unv8r8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132665249373-r17b6k2pmua7a31tsjs2nievdrl043t0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zippo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
